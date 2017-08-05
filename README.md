@@ -1,7 +1,7 @@
 Tic Tac Toe
 ===========
 
-Full example of modeling problems with data and functions using JavaScript / React.
+Full example of modeling problems with data and functions using JavaScript / React. [Try it out here](https://eiriklv.github.io/tic-tac-toe).
 
 ### How to run
 
